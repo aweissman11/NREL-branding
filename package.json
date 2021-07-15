@@ -1,6 +1,6 @@
 {
   "name": "nrel-branding",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NREL branding components",
   "main": "dist/index.js",
   "dependencies": {},
@@ -14,6 +14,9 @@
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0",
     "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.2.0",
     "rollup": "^2.53.1",
     "rollup-plugin-sass": "^1.2.2",
     "rollup-plugin-typescript2": "^0.30.0",
