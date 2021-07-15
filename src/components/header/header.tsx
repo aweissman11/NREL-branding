@@ -1,3 +1,4 @@
+import * as React from 'react';
 import { Fragment, ReactNode, Children, cloneElement, ReactElement } from 'react';
 import * as PropTypes from 'prop-types';
 import DefaultLogo from './images/nrel-logo@2x-01.png';

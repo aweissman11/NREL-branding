@@ -1,3 +1,4 @@
+import * as React from 'react';
 import {
   ReactNode,
   useState,
@@ -7,7 +8,7 @@ import {
   cloneElement,
 } from 'react';
 import * as PropTypes from 'prop-types';
-import { useLocation } from 'react-router';
+import { useLocation } from 'react-router-dom';
 
 import Menu from './menu';
 import './style.scss';
